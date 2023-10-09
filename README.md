@@ -6,5 +6,3 @@
 Jupyter Notebook here: [Spotify Data Analysis](Data-Analysis.ipynb)
 
 Data collection script here: [Python data scraper](download_data.py)
-
-If you want to read the full report on this data analysis, including the results and discussion, you can take a look at my blog post here: [Music and Mood: Assessing the Predictive Value of Audio Features on Lyrical Sentiment](http://rileynwong.com/blog/2018/1/3/music-and-mood-assessing-the-predictive-value-of-audio-features-on-lyrical-sentiment)
